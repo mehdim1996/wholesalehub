@@ -28,12 +28,7 @@
 
 ## فناوری‌ها
 
-| لایه | فناوری |
-|------|--------|
-| Backend | Node.js + Express |
-| Frontend | React + Recharts |
-| Database | PostgreSQL |
-| CI/CD | GitHub Actions |
+فناوری‌های پروژه در آینده مشخص می‌شود.
 
 ## مستندات
 
